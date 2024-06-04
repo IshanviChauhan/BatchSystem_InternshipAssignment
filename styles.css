@@ -12,6 +12,9 @@ body{
     border-radius: 50px;
     background-color: white;
 }
+a{
+    text-decoration: none;
+}
 /* Navbar */
 nav{
     padding-top: 40px;
@@ -29,9 +32,17 @@ nav .menu{
     gap: 40px;
     line-height: 26px;
     font-weight: 500;
+    
+}
+a{
+    color: black;
 }
 nav .menu img{
     height: 30px;
+}
+nav .active{
+    color: #FF5555;
+    font-weight: 700;
 }
 nav .menu ul{
     display: flex;
@@ -42,7 +53,7 @@ nav .menu ul{
 nav .menu li{
     cursor: pointer;
 }
-nav .menu li:hover{
+nav .menu li a:hover{
     cursor: pointer;
     font-weight: 800;
     color: #FF5555;
