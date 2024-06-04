@@ -10,10 +10,8 @@ This project is a responsive app landing page built with HTML and CSS. It showca
 
 ## Preview
 
-A live preview of the landing page is currently unavailable. However, you can view the Figma design reference for a visual representation of the intended layout and aesthetics:
-
-* Figma Link : https://www.figma.com/community/file/1145991068621514311
-* Vercel Link : 
+* Figma Link: https://www.figma.com/community/file/1145991068621514311
+* Vercel Link: https://ishanvi-chauhan-internship-assignment.vercel.app/
 
 ## Usage
 
